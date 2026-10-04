@@ -26,9 +26,9 @@ func main() {
 
 	fmt.Println(n % 2 ==0)
 }
-````
+```
 #### Output
-![Output](https//github.com/schesterx64/tugas/blob/main/tugas%20individu%203/genapGanjil_output.png)
+![Output](https://github.com/schesterx64/tugas/blob/main/tugas%20individu%203/genapGanjil_output.png)
 ## 3. Soal Kelipatan Persekutuan
 ```go
 package main

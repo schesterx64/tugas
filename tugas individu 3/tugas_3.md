@@ -13,7 +13,7 @@ func main() {
 }
 ```
 #### Output
-![Output](https://github.com/schesterx64/tugas/blob/main/tugas%20individu%203/perbandinganBilangan_output.png)
+![Output](./perbandinganBilangan_output.png)
 ## 2. Soal Genap atau Ganjil
 ```go
 package main
@@ -28,7 +28,7 @@ func main() {
 }
 ```
 #### Output
-![Output](https://github.com/schesterx64/tugas/blob/main/tugas%20individu%203/genapGanjil_output.png)
+![Output](./genapGanjil_output.png)
 ## 3. Soal Kelipatan Persekutuan
 ```go
 package main
@@ -42,7 +42,7 @@ package main
  }
 ```
 #### Output
-![Output](https://github.com/schesterx64/tugas/blob/main/tugas%20individu%203/kelipatanPersekutuan_output.png)
+![Output](./kelipatanPersekutuan_output.png)
 ## 4. Soal Rentang Nilai
 ```go
 package main
@@ -56,4 +56,4 @@ package main
  }
 ```
 #### Output
-![Output](https://github.com/schesterx64/tugas/blob/main/tugas%20individu%203/rentangNilai_output.png)
+![Output](./rentangNilai_output.png)

@@ -1,4 +1,4 @@
-# Tugas Individu: Tipe Data Lanjutan
+# <h1 align="center"> Tugas Individu: Tipe Data Lanjutan </h>
 ## 1. Soal Perbandingan Bilangan
 ```go
 package main

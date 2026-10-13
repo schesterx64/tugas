@@ -1,4 +1,4 @@
-# Studi Kasus: Petugas Parkir Kampus
+# <h1 align="center"> Studi Kasus: Petugas Parkir Kampus </h>
 Seorang petugas parkir bertugas mencatat kendaraan yang masuk ke area parkir kampus setiap pagi. 
 Petugas mulai mencatat dari kendaraan pertama, dan terus mencatat satu per satu setiap kendaraan yang 
 datang, hingga akhirnya area parkir penuh (mencapai kapasitas maksimum 50 kendaraan). Begitu 

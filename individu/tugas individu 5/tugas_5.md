@@ -19,7 +19,7 @@ func main() {
 }
 ```
 #### Output
-![Output](./)
+![Output](./poinGame_output.png)
 ## 2. Soal Kuadrat Digit
 ```go
 package main
@@ -45,7 +45,7 @@ func main() {
 }
 ```
 #### Output
-![Output](./)
+![Output](./kuadratDigit_output.png)
 ## 3. Soal Donat
 ```go
 package main
@@ -65,7 +65,7 @@ func main() {
 }
 ```
 #### Output
-![Output](./)
+![Output](./donat_output.png)
 ## 4. Soal Bilangan Cantik
 ```go
 package main
@@ -92,7 +92,7 @@ func main() {
 }
 ```
 #### Output
-![Output](./)
+![Output](./bilanganCantik_output.png)
 ## 5. Soal Kapasitas Gudang
 ```go
 package main
@@ -112,4 +112,4 @@ func main() {
 } 
 ```
 #### Output
-![Output](./)
+![Output](./kapasitasGudang_output.png)

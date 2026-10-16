@@ -10,7 +10,6 @@ func main() {
 		fmt.Scan(&V)
 		totalBarang += V
 
-		//fmt.Println(totalBarang >= K)
+		fmt.Println(totalBarang >= K)
 	}
-	fmt.Println(totalBarang >= K)
 } 

@@ -1,4 +1,4 @@
-# Permukaan Bola
+# <h1 align="center"> Permukaan Bola </h1>
 ```go
 package main
 

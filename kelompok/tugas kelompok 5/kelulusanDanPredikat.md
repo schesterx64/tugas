@@ -1,4 +1,4 @@
-# Kelulusan dan Predikat
+# <h1 align="center"> Kelulusan dan Predikat </h1>
 ```go
 package main
 import "fmt"
